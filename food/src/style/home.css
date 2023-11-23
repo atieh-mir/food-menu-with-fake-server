@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+    height: 100vh;
+  display: flex;
+  flex-direction: row-reverse;
+background-color: #7D7C7C;
+   
+}
+.home-image{
+    
+   width: 60%;
+}
+   
+
+.home-container{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+    line-height: 60px;
+    font-size: 1.6rem;
+}
+
+.home-container button{
+    width: 100px;
+    height: 30px;
+    margin-top: 8px;
+    font-size: .7rem;
+    background-color: black;
+    color: #fff;
+    border: none;
+}

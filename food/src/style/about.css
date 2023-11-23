@@ -1,0 +1,29 @@
+
+.image-about{
+
+  background-image: url("../../public/image/GettyImages.png");
+  width: 100%;
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: red;
+ 
+}
+.title-about{
+    margin: 40px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.title-about h1{
+    font-size: 3rem;
+}
+.title-about p{
+    margin-top: 10px;
+    font-size: 1.5rem;
+    width: 80%;
+    text-align: center;
+    line-height: 30px;
+}

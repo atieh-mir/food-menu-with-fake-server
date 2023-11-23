@@ -1,0 +1,27 @@
+
+.menu-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 5% auto;
+    line-height: 40px;
+   text-align: center;
+}
+.food--img{
+    border-radius: 70px;
+    width: 40%;
+    height: 70vh;
+}
+.title{
+    margin: 20px 0;
+    font-size: 3rem;
+}
+.description{
+    font-size: 1.6rem;
+   width: 50%;
+}
+.price{
+    font-size: 1.7rem;
+    font-weight: bold;
+}

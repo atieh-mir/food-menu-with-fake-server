@@ -1,0 +1,49 @@
+{
+  "menu": [
+   { 
+   "id":1,
+   "title":"Butter Paneer",
+   "img": "https://myfoodstory.com/wp-content/uploads/2021/07/restaurant-style-paneer-butter-masala-2.jpg",
+   "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus nisi harum accusantium provident, officia, ipsa quibusdam doloremque quidem molestiae molestias porro quod voluptatem error assumenda.",
+   "price":" €250"},
+  {
+  "id":2,
+  "title":"Chole Bhature",
+  "img": "https://i.pinimg.com/originals/eb/54/50/eb5450de8f647299d97b11e859200cb7.jpg",
+  "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus nisi harum accusantium provident, officia, ipsa quibusdam doloremque quidem molestiae molestias porro quod voluptatem error assumenda.",
+  "price":" €280"
+  
+  }
+  ,{
+  "id":3,
+  "title":"Gujrati Thali",
+  "img": "https://thumbs.dreamstime.com/b/indian-vegetarian-gujrati-thali-lot-people-safar-hotel-169795430.jpg",
+   "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus nisi harum accusantium provident, officia, ipsa quibusdam doloremque quidem molestiae molestias porro quod voluptatem error assumenda.",
+  "price":" €350"
+  }
+  ,{
+  "id":4,
+  "title":"Idli vada",
+  "img": "https://t4.ftcdn.net/jpg/05/07/00/03/360_F_507000363_tfzdJrG9A1ims4ucbGWDr8YLOYzowomi.jpg",
+   "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus nisi harum accusantium provident, officia, ipsa quibusdam doloremque quidem molestiae molestias porro quod voluptatem error assumenda.",
+  "price":" €230"
+  }
+  ,{
+  "id":5,
+  "title":"Masala Dosa",
+  "img": "https://i.pinimg.com/736x/62/d7/5e/62d75eff147db57f09be6e4f4b38e227.jpg",
+   "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus nisi harum accusantium provident, officia, ipsa quibusdam doloremque quidem molestiae molestias porro quod voluptatem error assumenda.",
+  "price":" €450"
+  }
+  
+  ,{
+  "id":6,
+  "title":"Rajasthani thali",
+  "img": "https://i.pinimg.com/736x/ad/42/e8/ad42e8605a0feb002268216f64272851.jpg",
+   "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus nisi harum accusantium provident, officia, ipsa quibusdam doloremque quidem molestiae molestias porro quod voluptatem error assumenda.",
+  "price":" €499"
+  }
+  ]
+ 
+  
+}

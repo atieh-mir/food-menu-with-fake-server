@@ -1,0 +1,17 @@
+
+
+.header{
+    background-color: black;
+    padding: 50px ;
+    list-style: none;
+    text-align: right;
+}
+.link{
+    color: #fff;
+    padding: 10px;
+    font-size: 1.8rem;
+    text-decoration: none;
+}
+.link.active{
+    font-weight: bold;
+}
